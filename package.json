@@ -1,0 +1,22 @@
+{
+  "name": "miniportfolio",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.4.1",
+    "astro": "4.3.2",
+    "hotkeypad": "0.1.0",
+    "typescript": "5.3.3"
+  },
+  "description": "<div align=\"center\"> <img src=\"logo.png\" height=\"90px\" width=\"auto\" />  <h2>     <em>Résumé</em> minimalista maquetado para web y pdf </h2> <p> Esquema del JSON de CV de <a href=\"https://jsonresume.org/schema/\">jsonresume.org</a> </p>",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}

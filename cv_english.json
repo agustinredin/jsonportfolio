@@ -1,0 +1,183 @@
+{
+  "basics": {
+    "name": "Agustin Redin",
+    "label": "Full Stack Developer using .NET and MERN Stack enthusiast",
+    "image": "/me.webp",
+    "email": "agustintomasredin@gmail.com",
+    "phone": "+54 9 11 4185 0218",
+    "url": "https://linkedin.com/in/agustintomasredin",
+    "summary": "I'm Agustin, a 21 year-old Fullstack Developer from Argentina. I started this journey in 2021 and I've been passionate about developing Software ever since. I'm currently studying an IT Degree in University and working a full-time job, while keeping up to date with latest technologies through courses and online education.",
+    "location": {
+      "address": "",
+      "postalCode": "1431",
+      "city": "Buenos Aires, Argentina",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "agustintomasredin",
+        "url": "https://linkedin.com/in/agustintomasredin"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/agustinredin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Vigiloo",
+      "position": ".NET Developer",
+      "url": "https://vigiloo.es",
+      "startDate": "2021-04-01",
+      "endDate": "2023-03-17",
+      "summary": "Project for logistics management with Last-Mile solutions, Cargo delivery tracking and IoT solutions."
+    },
+    {
+      "name": "Mymtec",
+      "position": ".NET Developer",
+      "url": "https://www.mymtec.com.ar/",
+      "startDate": "2023-03-20",
+      "endDate": "2024-05-01",
+      "summary": "Reforming a 2006 foreign trade system using .NET, mocking SPA architecture and oriented towards quick and functional UI"
+    }
+  ],
+  "education": [{
+    "institution": "Universidad de Buenos Aires - Faculty of Economics",
+    "url": "https://www.economicas.uba.ar/",
+    "area": "Bachelor's Degree in Information Systems",
+    "studyType": "Bachelor",
+    "startDate": "2022-03-01",
+    "endDate": null,
+    "score": "6.0",
+    "courses": [
+      "Software Engineering",
+      "Methodology of Information Systems",
+      "Algorithms and Data Structures",
+      "Agile Development",
+      "SaaS Infrastructure"
+    ]
+  },
+  {
+    "institution": "Coderhouse",
+    "url": "https://www.coderhouse.com/ar/",
+    "area": "Web Developer Course",
+    "studyType": "Course",
+    "startDate": "2022-08-01",
+    "endDate": "2022-10-01",
+    "score": "8.0",
+    "courses": []
+  },
+  {
+    "institution": "Coderhouse",
+    "url": "https://www.coderhouse.com/ar/",
+    "area": "ReactJS Course",
+    "studyType": "Course",
+    "startDate": "2023-08-01",
+    "endDate": "2023-10-01",
+    "score": "9.0",
+    "courses": []
+  }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web Development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Vite",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "Compiler"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Database", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version control", "Collaboration", "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Version control", "Collaboration", "Source Code", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Gamarra",
+      "isActive": true,
+      "description": "Landing page for a personal trainer. Built mainly with Boostrap.",
+      "url": "https://github.com/agustinredin/dw41525_agustinredin",
+      "github": "https://github.com/agustinredin/dw41525_agustinredin"
+    },
+    {
+      "name": "Hypestore",
+      "isActive": true,
+      "description": "Front-end design-oriented E-commerce template built with React",
+      "url": "https://github.com/agustinredin/hypestore_arg",
+      "github": "https://github.com/agustinredin/hypestore_arg"
+    }
+  ]
+}
