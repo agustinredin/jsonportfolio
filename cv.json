@@ -84,6 +84,34 @@
   ],
   "skills": [
     {
+      "name": "CSharp",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Backend"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development", "Backend"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend"
+      ]
+    },
+    {
+      "name": "SASS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development", "Frontend"
+      ]
+    },
+    {
       "name": "HTML",
       "level": "Master",
       "keywords": [
